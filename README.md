@@ -1,15 +1,15 @@
-# certasynergy
+# EV-System
 
-# ⚡ EV & Clean Energy Website
+# EV & Clean Energy Website
 
 A modern and responsive web application built with **Vue 3**, **Vite**, and **Tailwind CSS**, designed to promote the future of **Electric Vehicles (EV)**, **solar innovation**, and **green investments**.  
 The platform focuses on sustainability, technology, and the evolution of clean mobility infrastructure.
 
 ---
 
-## 🚀 Features
+## Features
 
-- ⚡ **Modern Vue 3 Architecture** — Built with Composition API and Vite for lightning-fast performance.
+-  **Modern Vue 3 Architecture** — Built with Composition API and Vite for lightning-fast performance.
 -  **Responsive UI** — Optimized layout for mobile, tablet, and desktop screens.
 -  **Interactive Roadmap** — Displays a dynamic multi-phase EV investment and charging infrastructure plan.
 -  **Green Energy Integration** — Sections highlighting solar energy and sustainability initiatives.
